@@ -1,12 +1,3 @@
-# Team Details
-
-* **Team number** : 103
-* **Members** :
-  * Rutva Rajdev
-  * Rohan Chitnis
-  * Varad Choudhari
-  * Saurabh Singh
-
 # Important Links
 
 * **Live System** : IP: 18.218.137.145, Port: 4545
