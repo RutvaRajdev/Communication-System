@@ -1,0 +1,39 @@
+homework2a/target/
+!.mvn/wrapper/maven-wrapper.jar
+*/target
+Project_src/Prattle/src/main/java/edu/northeastern/ccs/im/Main.java
+
+### IntelliJ IDEA ###
+Project_src/Prattle/.idea/*
+Project_src/Chatter/.idea/*
+Project_src/Chatter/target/*
+Project_src/Prattle/target/*
+*.iws
+*.iml
+*.ipr
+
+#MAC Extras 
+.DS_Store
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*

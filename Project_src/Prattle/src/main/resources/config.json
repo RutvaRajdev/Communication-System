@@ -1,0 +1,4 @@
+{
+  "DATABASE_CONN_STRING" : "mongodb://team103:team103@ds163176.mlab.com:63176/msd103",
+  "DATABASE" : "msd103"
+}
